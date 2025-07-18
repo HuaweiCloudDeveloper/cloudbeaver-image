@@ -42,7 +42,6 @@ This project offers pre-configured [**CloudBeaver database management cloud plat
 | Image Version                                                                                                            | Description | Notes |  
 |--------------------------------------------------------------------------------------------------------------------------|-------------|-------|  
 | [CloudBeaver-25.0.4-kunpeng](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/tree/CloudBeaver-25.0.4-kunpeng)                    | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [CloudBeaver-25.0.4-kunpeng](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/tree/CloudBeaver-25.0.4-kunpeng) | Deployed on Kunpeng servers with Ubuntu 24.04 |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/issues)

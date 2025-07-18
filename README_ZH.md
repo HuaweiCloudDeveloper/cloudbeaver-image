@@ -42,7 +42,6 @@
 | 镜像规格                                                                                                                     | 特性说明 | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------| --- | --- |
 | [CloudBeaver-25.0.4-kunpeng](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/tree/CloudBeaver-25.0.4-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [CloudBeaver-25.0.4-kunpeng](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/tree/CloudBeaver-25.0.4-kunpeng) | 基于 鲲鹏服务器 + Ubuntu 24.04 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
