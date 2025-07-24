@@ -1,52 +1,17 @@
-<p align="center">
-  <h1 align="center">CloudBeaver database management cloud platform</h1>
-  <p align="center">
-    <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
-  </p>
-</p>
+# CloudBeaver-25.0.4-kunpeng
 
-## Table of Contents
+## 规格说明
 
-- [Repository Introduction](#repository-introduction)  
-- [Prerequisites](#prerequisites)  
-- [Image Specifications](#image-specifications)
-- [Getting Help](#getting-help)
-- [How to Contribute](#how-to-contribute)
+- 镜像商品：[CloudbBeaver数据库管理云平台](https://marketplace.huaweicloud.com/hidden/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)
+- 镜像规格：CloudBeaver-25.0.4-kunpeng-HCE
+- 预置环境：CloudBeaver 25.0.4 + Docker 28.1.1
+- 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
+- CPU架构：ARM
+- 操作系统：Huawei Cloud EulerOS 2.0 64bit
+- 资源编排服务（RFS）：ECS + EIP + VPC
 
-## Repository Introduction  
-‌[CloudBeaver](https://github.com/dbeaver/cloudbeaver)  is a lightweight web application designed for efficient and secure data management. It supports a wide range of databases, including SQL, NoSQL, and cloud databases, all accessible through a web browser. Optimized for teamwork, it simplifies database operations and allows multiple users to collaborate seamlessly in a cloud-based environment.
+## 使用说明
 
-**Out-of-the-box CloudBeaver offers:**
+- 华为云云商店：[CloudbBeaver 使用指南](./docs/usage.md)
 
-- Well-designed and user-friendly interface
-- Secure connectivity and multi-layered authentication
-- Multiple deployment options
-- Collaborative multi-user environment
-- Support for a wide range of databases
-- Artificial intelligence for building complex SQL queries
-- Integration with popular cloud platforms
-- Customizable user interface options
-
-This project offers pre-configured [**CloudBeaver database management cloud platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/da4c724d-445e-4474-aa80-cbf752942f0b) images with Flink and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
-
-> **System Requirements:**
-> - CPU: 2GHz or higher  
-> - RAM: 4GB or more  
-> - Disk: At least 40GB  
-
-## Prerequisites  
-[Register a Huawei account and activate Huawei Cloud](https://support.huaweicloud.com/usermanual-account/account_id_001.html)
-
-## Image Specifications  
-
-| Image Version                                                                                                            | Description | Notes |  
-|--------------------------------------------------------------------------------------------------------------------------|-------------|-------|  
-| [CloudBeaver-25.0.4-kunpeng](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/tree/CloudBeaver-25.0.4-kunpeng)                    | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-
-## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/issues)
-- Contact Huawei Cloud Marketplace product support
-
-## How to Contribute
-- Fork this repository and submit a merge request.
-- Update README.md synchronously based on your open-source mirror information.
+更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
