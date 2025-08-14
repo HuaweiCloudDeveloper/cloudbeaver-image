@@ -27,7 +27,7 @@
 - 与流行的云平台集成
 - 可定制的用户界面选项
 
-本项目提供的开源镜像商品 [**`CloudbBeaver数据库管理云平台`**](https://marketplace.huaweicloud.com/hidden/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)，已预先安装 CloudBeaver 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`CloudbBeaver数据库管理云平台`**](https://marketplace.huaweicloud.com/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)，已预先安装 CloudBeaver 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
