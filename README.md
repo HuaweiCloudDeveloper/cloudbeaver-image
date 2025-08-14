@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[CloudbBeaver数据库管理云平台](https://marketplace.huaweicloud.com/hidden/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)
+- 镜像商品：[CloudbBeaver数据库管理云平台](https://marketplace.huaweicloud.com/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)
 - 镜像规格：CloudBeaver-25.0.4-kunpeng-HCE
 - 预置环境：CloudBeaver 25.0.4 + Docker 28.1.1
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)

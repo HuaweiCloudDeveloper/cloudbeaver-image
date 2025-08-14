@@ -2,7 +2,7 @@
 
 ## 一、商品链接
 
-[CloudbBeaver数据库管理云平台](https://marketplace.huaweicloud.com/hidden/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)
+[CloudbBeaver数据库管理云平台](https://marketplace.huaweicloud.com/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)
 
 ## 二、商品说明
 
